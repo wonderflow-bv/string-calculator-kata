@@ -46,8 +46,8 @@ If there are multiple negatives, show all of them in the exception message.
 Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 
 ## General requirements
-- Use whatever language and frameworks you want. Use something that you know well.
-- Provide a README with instructions on how to compile and run the application.
+- **We would love to see your submission written in JavaScript**. Although, you can use whatever language and frameworks you want. Use something that you know well.
+- **Provide a README with instructions** on how to compile and run the application.
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
