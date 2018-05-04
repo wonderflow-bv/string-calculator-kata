@@ -1,5 +1,5 @@
 # String Calculator Kata
-The following is a TDD Kata, an exercise in coding, refactoring and test-first, that you should apply daily for at least 15-30 minutes.
+The following is a TDD Kata, an exercise in coding, refactoring and test-first.
 
 ## Before you start
 * Try not to read ahead.
