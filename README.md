@@ -45,6 +45,9 @@ If there are multiple negatives, show all of them in the exception message.
 ### Step 6: ignore big numbers
 Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 
+### Step 7: delimiters length
+Delimiters can be of any length with the following format: ``//[delimiter]\n`` for example: ``//[***]\n1***2***3`` should return 6
+
 ## General requirements
 - **We would love to see your submission written in JavaScript**. Although, you can use whatever language and frameworks you want. Use something that you know well.
 - **Provide a README with instructions** on how to compile and run the application.
