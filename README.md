@@ -54,7 +54,7 @@ Numbers bigger than 1000 should be ignored, so adding 2 + 1001  = 2
 Delimiters can be of any length with the following format: ``//[delimiter]\n`` for example: ``//[***]\n1***2***3`` should return 6
 
 ## General requirements
-- **We would love to see your submission written in JavaScript**. Although, you can use whatever language and frameworks you want. Use something that you know well.
+- **We would love to see your submission written in JavaScript**. Although, you can use whatever language and framework you want. Use something that you know well.
 - **Provide a README with instructions** on how to compile and run the application.
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
