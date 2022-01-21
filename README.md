@@ -1,10 +1,15 @@
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first.
 
+The goal is to solve the exercise in your own best way, showing us how you approch problems and your workflow. We may give more value to how you reached the solution with respect to the solution itself.
+
 ## Before you start
 * Try not to read ahead.
 * Do one task at a time. The trick is to learn to work incrementally.
 * Make sure you only test for correct inputs. There is no need to test for invalid inputs for this kata.
+* Commit your code on GitHub or any other SCM repository you prefer.
+* Release your work under an OSI-approved open-source license of your choice.
+* Disable Copylot and don't watch others solutions while trying to solve this kata, you'll make it harder for us to asses your skills.
 
 ## The kata
 
